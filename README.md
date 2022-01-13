@@ -3,7 +3,7 @@
 <p align="center">
   
   <a href="https://discord.gg/Ehakf7Rbv8">
-    <img src="https://img.shields.io/discord/635695428834164746?label=discord&color=5865F2&logo=discord&logoColor=616eff">
+    <img src="https://img.shields.io/discord/483551326232641544?label=discord&color=5865F2&logo=discord&logoColor=616eff">
   </a>
 
   <a href="https://patreon.com/arcadearchie">
