@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/discord/483551326232641544?label=discord&color=5865F2&logo=discord&logoColor=616eff">
   </a>
 
-  <a href="https://patreon.com/arcadearchie">
-    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmetacinnabar%26type%3Dpatrons%26suffix%3Dsupporters&style=flat">
+  <a href="https://nstrassburger.de/donate">
+    <img src="https://img.shields.io/badge/donations-nstrassburger.de-orange">
   </a>
 </p>
 
