@@ -13,3 +13,4 @@
 
 ## Github stats
 ![GitHub stats](https://github.com/ArcadeArchie/github-stats/blob/master/generated/overview.svg)
+![Langs](https://github.com/ArcadeArchie/github-stats/blob/master/generated/languages.svg)
