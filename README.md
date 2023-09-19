@@ -6,8 +6,12 @@
     <img src="https://img.shields.io/discord/483551326232641544?label=discord&color=5865F2&logo=discord&logoColor=616eff">
   </a>
 
-  <a href="https://nstrassburger.de/donate">
-    <img src="https://img.shields.io/badge/donations-nstrassburger.de-orange">
+  <a href="https://www.twitch.tv/arcadearchie">
+    <img src="https://img.shields.io/twitch/status/arcadearchie">
+  </a>
+
+  <a href="https://twitter.com/ArcadeArchie">
+    <img src="https://img.shields.io/twitter/follow/ArcadeArchie">
   </a>
 </p>
 
