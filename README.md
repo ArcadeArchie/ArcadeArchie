@@ -1,3 +1,2 @@
-Due to M$ and GH recent actions and general hostility towards OSS, i've moved to [Codeberg](https://codeberg.org/ArcadeArchie/)
-
-Most of my work i have already migrated and no support will be given here
+<h1 align="center"> Hi there! 👋</h1>
+<h3 align="center">Your avg, Dev from Germany.</h3>
